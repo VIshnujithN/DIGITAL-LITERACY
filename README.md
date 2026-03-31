@@ -64,43 +64,43 @@ digital-literacy-project/
 ### Task 1 — Digital Literacy Awareness Infographic (Module 1)
 Created a one-page infographic using **Canva** covering three topics: what digital literacy is, safe internet practices, and the importance of a professional online presence. The infographic is designed for first-year students and uses icons and colour-coded sections for easy readability.
 
-📁 See: `task-1-presentation/`
+ See: `task-1-presentation/`
 
 ---
 
 ### Task 2 — Student Digital Portfolio (Module 2)
 Set up professional profiles on **GitHub**, **LinkedIn**, and **Kaggle**. Created a GitHub profile README introducing my name, branch, year, and learning goals. Filled in the Education section on LinkedIn with current degree details.
 
-🔗 **GitHub Profile:** [github.com/yourusername](https://github.com/yourusername)  
-🔗 **LinkedIn Profile:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🔗 **Kaggle Profile:** [kaggle.com/yourusername](https://www.kaggle.com/yourusername)
+ **GitHub Profile:** [github.com/yourusername](https://github.com/yourusername)  
+ **LinkedIn Profile:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+ **Kaggle Profile:** [kaggle.com/yourusername](https://www.kaggle.com/yourusername)
 
-📁 See: `task-2-portfolio/`
+ See: `task-2-portfolio/`
 
 ---
 
 ### Task 3 — Coding and Collaboration Platforms (Module 3)
 Completed the **"Solve Me First"** beginner challenge on HackerRank. Built a 5-question **Digital Literacy Awareness Quiz** using Google Forms, with responses linked to a Google Sheet.
 
-🔗 **Digital Literacy Quiz (Google Form):** [Click here to take the quiz](https://forms.google.com/your-form-link)
+ **Digital Literacy Quiz (Google Form):** [Click here to take the quiz](https://forms.google.com/your-form-link)
 
-📁 See: `task-3-platforms/`
+ See: `task-3-platforms/`
 
 ---
 
 ### Task 4 — Professional Email and Etiquette (Module 4)
 Drafted two professional emails — one requesting a deadline extension from a professor, and one expressing interest in a summer internship. Also created a Social Media Do's and Don'ts checklist for college students.
 
-📁 See: `task-4-email-etiquette/`
+ See: `task-4-email-etiquette/`
 
 ---
 
 ### Task 5 — Cybercrime Awareness Case Study (Module 5)
 Researched and wrote a 200–250 word case study on **UPI / Online Payment Fraud**, describing how it works, who is targeted, and its consequences. Created an 8-point prevention checklist with specific tips for Indian college students, including UPI safety and reporting channels.
 
-🆘 **Report cybercrime at:** [cybercrime.gov.in](https://cybercrime.gov.in) | Helpline: **1930**
+ **Report cybercrime at:** [cybercrime.gov.in](https://cybercrime.gov.in) | Helpline: **1930**
 
-📁 See: `task-5-cybercrime/`
+ See: `task-5-cybercrime/`
 
 ---
 
@@ -108,7 +108,7 @@ Researched and wrote a 200–250 word case study on **UPI / Online Payment Fraud
 
 The full written report covering all five tasks is available in the `report/` folder.
 
-📄 [Project_Report.pdf](report/Project_Report.pdf)
+ [Project_Report.pdf](report/Project_Report.pdf)
 
 ---
 
