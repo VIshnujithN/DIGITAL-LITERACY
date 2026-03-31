@@ -1,0 +1,80 @@
+STAY SAFE ONLINE —
+
+Report Cybercrime: cybercrime.gov.in | Helpline: 1930
+
+
+
+GENERAL ONLINE SAFETY
+
+
+1. USE STRONG, UNIQUE PASSWORDS
+     Create passwords with a mix of uppercase, lowercase, numbers, and
+     symbols. Never reuse the same password across multiple accounts.
+     Use a password manager (e.g., Bitwarden) to keep track of them.As passwords tend to get leaked from databases often, try being aware of those breaches.
+
+2. ENABLE TWO-FACTOR AUTHENTICATION (2FA)
+     Turn on 2FA for all important accounts — email, social media, and
+     college portals. This adds a second layer of protection even if
+     your password is stolen. Try enabling 2fa for all accounts if available and don't resort for just the important ones.
+
+3. AVOID PUBLIC WI-FI FOR SENSITIVE TASKS
+     Do not access your bank account, college login, or personal data
+     on unsecured public Wi-Fi (cafes, hostels, bus stands). Use your
+     mobile data or a trusted VPN instead.
+
+Be aware of even entering the wifi credentials as that could be pathway to entry.
+
+4. VERIFY BEFORE YOU CLICK
+     Do not click on suspicious links received via WhatsApp, SMS, or
+     email — even if they appear to come from known contacts. Phishing
+     links often mimic trusted brands or government portals.
+
+Verify before you access a website too as generative AI has made it easier to dupe a legitimate website and lure you into entering your credentials.
+
+5. KEEP APPS AND DEVICES UPDATED
+     Regularly update your phone's OS, apps, and antivirus software.
+     Updates patch security vulnerabilities that hackers actively exploit.
+
+And also beware of those updates as certain update can break or fail your system, so make sure to keep backups as well in a secure platform or source.
+
+6. PROTECT YOUR AADHAAR AND PERSONAL IDs
+     Never share photos of your Aadhaar card, PAN card, or college ID
+in WhatsApp groups or unknown websites. Use the masked version available at uidai.gov.in if the need is there.
+
+And enable 2 factor for these as well, With your phone number and digital signatures
+
+FINANCIAL & UPI SAFETY
+
+
+7. NEVER SHARE YOUR UPI PIN, OTP, OR BANK DETAILS WITH ANYONE
+     No bank, UPI apps (GPay, Paytm, PhonePe), or government agencies
+     would ask for your UPI PIN or OTP over calls or messages.
+     UPI PIN is like your ATM PIN; keep it private.
+
+8. BEWARE OF "RECEIVE MONEY" SCAMS ON UPI
+     Scammers send UPI payment requests to trick people.
+     Remember, entering your UPI PIN on the payment request SENDING
+     money is what the request is for; it DOES NOT receive the money.
+     Enter the PIN carefully before sending the money.
+
+SOCIAL MEDIA SAFETY
+
+
+9. AUDIT YOUR SOCIAL MEDIA PRIVACY SETTINGS
+     Ensure your Instagram, Facebook, and Snapchat profiles are set to private.
+     Don’t publicly disclose your college name, hostel location, or daily routine,
+     as this could be misused.
+
+10. DO NOT ACCEPT UNKNOWN FRIEND/FOLLOW REQUESTS
+     Fake profiles are created to get your personal info or trick college
+     students into romance/scam investments. Verify before accepting.
+
+REPORTING CHANNELS
+
+
+11. IF YOU ARE A VICTIM OF CYBERCRIME – REPORT IMMEDIATELY
+     • National Cyber Crime Reporting Portal : cybercrime.gov.in
+     • Cyber Crime Helpline         : 1930 (24x7, toll-free)
+     • Report to your college IT department and police station too.
+     Don’t hesitate; cybercrime is common. Report immediately to get your lost
+     money back or stop the cybercrime. Don’t hesitate; cybercrime is common.
